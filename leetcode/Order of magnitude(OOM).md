@@ -1,0 +1,1 @@
+OOM is taking humans intelligance as a base, how the compute scales in order of 10. so if it scales from 10 to 100 we say OOM is 2.

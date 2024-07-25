@@ -1,0 +1,2 @@
+- we saw in [[1. 1 Analysis of Algorithm]] there are various factors that can affect the analysis of algorithm and we want something that is beyond these reasons.
+- 
