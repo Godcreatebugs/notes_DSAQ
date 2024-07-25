@@ -47,7 +47,12 @@ Approach 1:
     """
 
 class Solution:
-    def peakElement(self,arr,n):
+    """
+    first approach has passed all the solution.
+    Time complexity is O(n) - since iteration happens all the elements
+    Space complexity iis O(1) - no xtra space was used 
+    """
+    def peakElement1(self,arr,n):
         pivotIndex = 0 
         #if there is one element
         if n == 1:
@@ -63,16 +68,18 @@ class Solution:
         # iterating over while pivot is less than n 
         while(pivotIndex < n):
             #if iterator is at beginning or end
-            if (pivotIndex == 0 and arr[pivotIndex] >= arr[pivotIndex+1]) or (pivotIndex == n -1 and arr[pivotIndex] >= arr[pivotIndex-1]):
+            if (pivotIndex == 0 and arr[0] >= arr[1]) or (pivotIndex == n -1 and arr[n-1] >= arr[n-2]):
                 return pivotIndex
             
-            elif arr[pivotIndex] >= arr[pivotIndex-1] and arr[pivotIndex] >= arr[pivotIndex+1]:
-                return pivotIndex
+            #if the elements are in the middle 
+            if (pivotIndex > 0 and pivotIndex < n-1):
+                if arr[pivotIndex] >= arr[pivotIndex-1] and arr[pivotIndex] >= arr[pivotIndex+1]:
+                    return pivotIndex
             
             pivotIndex += 1
 
 
 question_arr = Solution()
-print("the answer is : ", question_arr.peakElement([1,2,3],3))
+print("the answer is : ", question_arr.peakElement1([1,2,3],3))
 
 
