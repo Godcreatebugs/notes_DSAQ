@@ -60,10 +60,7 @@ class Solution:
         
         #if there are 2 element
         if n == 2:
-            if arr[0] >= arr[1]:
-                return 0 
-            else:
-                return 1 
+            return 1 if arr[1] >= arr[0] else 0 
             
         # iterating over while pivot is less than n 
         while(pivotIndex < n):
@@ -80,6 +77,6 @@ class Solution:
 
 
 question_arr = Solution()
-print("the answer is : ", question_arr.peakElement1([1,2,3],3))
+print("the answer is : ", question_arr.peakElement1([1,2],2))
 
 
