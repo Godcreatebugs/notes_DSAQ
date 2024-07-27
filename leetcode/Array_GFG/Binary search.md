@@ -1,10 +1,10 @@
-#binarysearch [explanation](https://www.geeksforgeeks.org/binary-search/) [implementation](binarySearch.py)
+#binarysearch [explanation](https://www.geeksforgeeks.org/binary-search/) [implementation](binarySearch.py)[recursive_sol](binarySearchRecursive.py)
 
 
 # What is binary search?
 - Binary search is a affective algorithm to find a a given key in sorted array.
-- Time complexity is O(log n) - the base is usually 2
-- faster than linear seach
+- Time complexity is O(log n) - the base is usually 2, constant space complexity
+- faster than linear search
 
 **To apply  binary search** 
 - data has to be sorted 
@@ -24,7 +24,7 @@
 ![[Pasted image 20240725201914.png]]
 
 You can do this either
-- Recursively[example]()
+- Recursively[example](binarySearchRecursive.py)
 - Iteratively[example](binarySearch.py)
 
 Again time complexity is O(log n) and space complexity is O(1) since we dont store anything
