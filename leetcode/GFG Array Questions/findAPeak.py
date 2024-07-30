@@ -44,7 +44,15 @@ Approach 1:
 
     if anywwhere the conditions are matched just break the function and return the pivotIndex    
 
-    """
+    
+EDGE CASES:
+    what if array has only 1 element - does that mean it is the peak. - seems to be yes, so return only that element    
+
+THOUGHTS on QUESTIONS:
+        will there always be a a peak element.
+        you know I think it is. because in integer array you can be always ascending in that case last element is peak, first element in just descending and 
+        otherwise you will find peak in b/w. so there always will be one peak hence no else condition at all      
+            """
 
 class Solution:
     """
@@ -75,8 +83,26 @@ class Solution:
             
             pivotIndex += 1
 
+    def peakElementFor(self,arr,n):
+        #if there is only one element 
+        if n == 1:
+            return 0 
+        
+        if arr[0] >= arr[1]:
+            return 0
+        elif arr[n-1] >= arr[n-2]:
+            return n-1
+
+
+        for i in range(1,n-1):
+            if (arr[i] >= arr[i-1]) and (arr[i] > arr[i+1]):
+                return i 
+            
+
+
 
 question_arr = Solution()
 print("the answer is : ", question_arr.peakElement1([1,2],2))
+print("the answer with for loop is : ", question_arr.peakElement1([1,1,1],3))
 
 
