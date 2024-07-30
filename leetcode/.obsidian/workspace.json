@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array_GFG/Getting Started with Array DS.md",
+                "file": "GFG questions/Top 50 array coding questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array_GFG/Getting Started with Array DS.md",
+                "file": "GFG questions/Top 50 array coding questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array_GFG/Getting Started with Array DS.md",
+                "file": "GFG questions/Top 50 array coding questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array_GFG/Getting Started with Array DS.md"
+                "file": "GFG questions/Top 50 array coding questions.md"
               }
             }
           }
@@ -182,9 +182,10 @@
   },
   "active": "dee8fce08e006e4f",
   "lastOpenFiles": [
+    "GFG Array Questions/reverseArray.py",
+    "Array_GFG/Getting Started with Array DS.md",
     "GFG Array Questions/minMax.py",
     "GFG questions/Top 50 array coding questions.md",
-    "Array_GFG/Getting Started with Array DS.md",
     "Array_GFG/Binary search.md",
     "GFG Array Questions/finaApeakLogN.py",
     "GFG Array Questions/binarySearchRecursive.py",
@@ -204,7 +205,6 @@
     "file.md",
     "Users/piyushbhuva/Desktop/leetcode_new/neetcode",
     "Users/piyushbhuva/Desktop/leetcode_new",
-    "Users/piyushbhuva/Desktop",
     "cache locality.md",
     "Untitled 1.canvas",
     "Untitled 1.md",
