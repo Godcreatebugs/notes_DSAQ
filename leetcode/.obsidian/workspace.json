@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array_GFG/Binary search.md",
+                "file": "GFG questions/Top 50 array coding questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b34a98ed6f5c2385",
@@ -99,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array_GFG/Binary search.md",
+                "file": "Array_GFG/Getting Started with Array DS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array_GFG/Binary search.md",
+                "file": "Array_GFG/Getting Started with Array DS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array_GFG/Binary search.md"
+                "file": "Array_GFG/Getting Started with Array DS.md"
               }
             }
           }
@@ -182,18 +180,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e24c851ee4301104",
+  "active": "dee8fce08e006e4f",
   "lastOpenFiles": [
-    "GFG Array Questions/finaApeakLogN.py",
+    "GFG Array Questions/minMax.py",
     "GFG questions/Top 50 array coding questions.md",
+    "Array_GFG/Getting Started with Array DS.md",
     "Array_GFG/Binary search.md",
+    "GFG Array Questions/finaApeakLogN.py",
     "GFG Array Questions/binarySearchRecursive.py",
     "Pasted image 20240725202151.png",
     "Pasted image 20240725201914.png",
     "Pasted image 20240725201857.png",
     "GFG Array Questions/binarySearch.py",
     "Array_GFG/What is Array?.md",
-    "Array_GFG/Getting Started with Array DS.md",
     "leetcode/GFG.md",
     "Untitled 2.md",
     "leetcode",
@@ -206,7 +205,6 @@
     "Users/piyushbhuva/Desktop/leetcode_new/neetcode",
     "Users/piyushbhuva/Desktop/leetcode_new",
     "Users/piyushbhuva/Desktop",
-    "Users/piyushbhuva",
     "cache locality.md",
     "Untitled 1.canvas",
     "Untitled 1.md",
