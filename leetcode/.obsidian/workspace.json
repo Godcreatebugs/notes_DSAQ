@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stable Selection Sort.md",
+                "file": "GFG questions/Top 50 array coding questions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,9 +46,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed3aa4bed15ae3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFG questions/Top 50 array coding questions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a59a8f00bd58eef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFG Array Questions Sol/Find number of occurence of element in arr.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e7c2bb245e9f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFG Array Questions Sol/Max Consecutive Ones.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cdd6d16960f53e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "b34a98ed6f5c2385",
@@ -134,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stable Selection Sort.md",
+                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stable Selection Sort.md",
+                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stable Selection Sort.md"
+                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md"
               }
             }
           }
@@ -196,35 +248,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cc2afa2b3be580c",
+  "active": "5cdd6d16960f53e8",
   "lastOpenFiles": [
+    "GFG Array Questions/squaresSortedArray.py",
+    "GFG Array Questions Sol/Max Consecutive Ones.md",
+    "GFG Array Questions Sol/Squares of Sorted Arr.md",
+    "GFG Array Questions Sol/Find number of occurence of element in arr.md",
+    "GFG Array Questions/maxconsicutiveOnes.py",
+    "GFG Array Questions/findOccurence.py",
+    "GFG questions/Top 50 array coding questions.md",
+    "GFG Array Questions Sol",
+    "Array_GFG/Binary search.md",
+    "Stable Selection Sort.md",
     "GFG Array Questions/stableSelectionSOrt.py",
     "Selection Sort Algorithm.md",
-    "Stable Selection Sort.md",
     "GFG Array Questions/selectionSort.py",
     "Pasted image 20240731183432.png",
     "Pasted image 20240731183356.png",
     "Pasted image 20240731183320.png",
-    "GFG questions/Top 50 array coding questions.md",
     "Sorting Algorithms and questions",
     "GFG Array Questions/kSmallest.py",
     "GFG Array Questions/reverseArray.py",
     "Array_GFG/Getting Started with Array DS.md",
     "GFG Array Questions/minMax.py",
-    "Array_GFG/Binary search.md",
     "GFG Array Questions/finaApeakLogN.py",
-    "GFG Array Questions/binarySearchRecursive.py",
     "Pasted image 20240725202151.png",
     "Pasted image 20240725201914.png",
     "Pasted image 20240725201857.png",
-    "GFG Array Questions/binarySearch.py",
     "Array_GFG/What is Array?.md",
     "leetcode/GFG.md",
     "Untitled 2.md",
-    "leetcode",
     "Users/piyushbhuva/Desktop/leetcode_new/neetcode/Array.md",
     "Users/piyushbhuva/Desktop/notes/leetcode/GFG.md",
-    "Users/piyushbhuva/Desktop/notes/leetcode",
     "file.md",
     "cache locality.md",
     "Untitled 1.canvas",
@@ -242,9 +297,6 @@
     "Order of magnitude(OOM).md",
     "1. 1 Analysis of Algorithm.md",
     "Need for asymptotic analysis.md",
-    "Two Sum Problem.md",
-    "leetcode problems.md",
-    "create a link.md",
-    "Welcome.md"
+    "Two Sum Problem.md"
   ]
 }

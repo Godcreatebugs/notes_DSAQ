@@ -25,7 +25,7 @@ An example of that could be as below:
 It has same time complexity - O(n^2) since we are using 2 for loops and constant space complexity because we are using no extra space.
 
 **The second for loop we use should be used to adjust elements on the sideways**
-Implementation of this algorithm looks like: [solution]()
+Implementation of this algorithm looks like: [solution](stableSelectionSOrt.py)
 
 
 **Important Note:**
