@@ -98,9 +98,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ed012865bc461a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Even Number of Digits.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "b34a98ed6f5c2385",
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GFG Array Questions Sol/Duplicate zeros.md",
+                "file": "Even Number of Digits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GFG Array Questions Sol/Duplicate zeros.md",
+                "file": "Even Number of Digits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GFG Array Questions Sol/Duplicate zeros.md"
+                "file": "Even Number of Digits.md"
               }
             }
           }
@@ -248,12 +261,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cdd6d16960f53e8",
+  "active": "6ed012865bc461a8",
   "lastOpenFiles": [
+    "GFG Array Questions Sol/Duplicate zeros.md",
+    "Even Number of Digits.md",
+    "GFG Array Questions/evenNoDigitts.py",
     "Pasted image 20240802004507.png",
     "GFG Array Questions/duplicateZeros.py",
     "GFG Array Questions Sol/Squares of Sorted Arr.md",
-    "GFG Array Questions Sol/Duplicate zeros.md",
     "GFG Array Questions/squaresSortedArray.py",
     "GFG Array Questions Sol/Max Consecutive Ones.md",
     "GFG Array Questions Sol/Find number of occurence of element in arr.md",
@@ -271,7 +286,6 @@
     "Pasted image 20240731183320.png",
     "Sorting Algorithms and questions",
     "GFG Array Questions/kSmallest.py",
-    "GFG Array Questions/reverseArray.py",
     "Array_GFG/Getting Started with Array DS.md",
     "Pasted image 20240725202151.png",
     "Pasted image 20240725201914.png",
@@ -288,7 +302,6 @@
     "Pasted image 20240724203254.png",
     "Pasted image 20240724202837.png",
     "Pasted image 20240724202756.png",
-    "Pasted image 20240724200855.png",
     "Untitled.canvas",
     "static memory allocation.md",
     "Untitled.md",
