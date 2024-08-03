@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md",
+                "file": "GFG Array Questions Sol/Duplicate zeros.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md",
+                "file": "GFG Array Questions Sol/Duplicate zeros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md",
+                "file": "GFG Array Questions Sol/Duplicate zeros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GFG Array Questions Sol/Squares of Sorted Arr.md"
+                "file": "GFG Array Questions Sol/Duplicate zeros.md"
               }
             }
           }
@@ -250,9 +250,12 @@
   },
   "active": "5cdd6d16960f53e8",
   "lastOpenFiles": [
+    "Pasted image 20240802004507.png",
+    "GFG Array Questions/duplicateZeros.py",
+    "GFG Array Questions Sol/Squares of Sorted Arr.md",
+    "GFG Array Questions Sol/Duplicate zeros.md",
     "GFG Array Questions/squaresSortedArray.py",
     "GFG Array Questions Sol/Max Consecutive Ones.md",
-    "GFG Array Questions Sol/Squares of Sorted Arr.md",
     "GFG Array Questions Sol/Find number of occurence of element in arr.md",
     "GFG Array Questions/maxconsicutiveOnes.py",
     "GFG Array Questions/findOccurence.py",
@@ -270,8 +273,6 @@
     "GFG Array Questions/kSmallest.py",
     "GFG Array Questions/reverseArray.py",
     "Array_GFG/Getting Started with Array DS.md",
-    "GFG Array Questions/minMax.py",
-    "GFG Array Questions/finaApeakLogN.py",
     "Pasted image 20240725202151.png",
     "Pasted image 20240725201914.png",
     "Pasted image 20240725201857.png",
@@ -296,7 +297,6 @@
     "ai awareness/from GPT 4 to AGI.md",
     "Order of magnitude(OOM).md",
     "1. 1 Analysis of Algorithm.md",
-    "Need for asymptotic analysis.md",
-    "Two Sum Problem.md"
+    "Need for asymptotic analysis.md"
   ]
 }
