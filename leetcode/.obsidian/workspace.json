@@ -111,9 +111,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51c4daeb631aa422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merge Sorted Array.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "b34a98ed6f5c2385",
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Even Number of Digits.md",
+                "file": "Merge Sorted Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Even Number of Digits.md",
+                "file": "Merge Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Even Number of Digits.md"
+                "file": "Merge Sorted Array.md"
               }
             }
           }
@@ -261,10 +274,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ed012865bc461a8",
+  "active": "51c4daeb631aa422",
   "lastOpenFiles": [
-    "GFG Array Questions Sol/Duplicate zeros.md",
     "Even Number of Digits.md",
+    "Merge Sorted Array.md",
+    "GFG Array Questions/mergeSortedArr.py",
+    "GFG Array Questions Sol/Duplicate zeros.md",
     "GFG Array Questions/evenNoDigitts.py",
     "Pasted image 20240802004507.png",
     "GFG Array Questions/duplicateZeros.py",
@@ -285,7 +300,6 @@
     "Pasted image 20240731183356.png",
     "Pasted image 20240731183320.png",
     "Sorting Algorithms and questions",
-    "GFG Array Questions/kSmallest.py",
     "Array_GFG/Getting Started with Array DS.md",
     "Pasted image 20240725202151.png",
     "Pasted image 20240725201914.png",
@@ -309,7 +323,6 @@
     "Order of Growth.md",
     "ai awareness/from GPT 4 to AGI.md",
     "Order of magnitude(OOM).md",
-    "1. 1 Analysis of Algorithm.md",
-    "Need for asymptotic analysis.md"
+    "1. 1 Analysis of Algorithm.md"
   ]
 }
